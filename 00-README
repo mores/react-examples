@@ -1,0 +1,5 @@
+yarn create react-app 00-hello_world
+
+cd 00-hello_world
+
+yarn start
