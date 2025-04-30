@@ -1,0 +1,15 @@
+yarn create react-app 01-primereact
+
+cd 01-primereact
+
+yarn add primereact
+
+yarn install
+
+yarn start
+
+yarn build
+
+mkdir /var/www/html/primereact
+
+cp -r build/* /var/www/html/primereact
