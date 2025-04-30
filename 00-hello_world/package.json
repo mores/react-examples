@@ -1,5 +1,6 @@
 {
   "name": "00-hello_world",
+  "homepage": "/helloWorld",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

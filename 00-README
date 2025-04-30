@@ -3,3 +3,9 @@ yarn create react-app 00-hello_world
 cd 00-hello_world
 
 yarn start
+
+yarn build
+
+mkdir /var/www/html/helloWorld
+
+cp -r build/* /var/www/html/helloWorld
